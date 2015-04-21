@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPOnline.Provision.Console", "SPOnline.Provision.Console\SPOnline.Provision.Console.csproj", "{5EF27F37-ED87-4189-AC81-83E84BD574A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPOnline.Provision.Base", "SPOnline.Provision.Base\SPOnline.Provision.Base.csproj", "{33621922-87CC-416C-9340-0B633B855B0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EF27F37-ED87-4189-AC81-83E84BD574A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF27F37-ED87-4189-AC81-83E84BD574A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF27F37-ED87-4189-AC81-83E84BD574A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF27F37-ED87-4189-AC81-83E84BD574A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33621922-87CC-416C-9340-0B633B855B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33621922-87CC-416C-9340-0B633B855B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33621922-87CC-416C-9340-0B633B855B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33621922-87CC-416C-9340-0B633B855B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
